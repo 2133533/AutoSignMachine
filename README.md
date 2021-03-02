@@ -26,9 +26,7 @@
 * **每日游戏时长-天天领取3G流量包**
 * **首页-积分查询-游戏任务**
 
-```sh
-node index.js unicom --user 131*******12 --password 11****11 --appid f7af****ebb
-```
+
 
 ### docker部署
 ```sh
